@@ -15,7 +15,7 @@ const Hero = () => {
           }
           className='black_btn'
         >
-          Here is the Code
+         Github
 
         </button>
       </nav>
